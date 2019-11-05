@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Placement System</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Enter Name</string>
+    <string name="id">Enter Id</string>
+    <string name="password1">Enter password</string>
+</resources>
